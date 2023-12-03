@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm currently working on building a thermostat with an ESP32 and DHT22 sensor wired into an extension cord to control a small electric heater in my shed. I want to be able to read the temperature via WiFi on my iphone and be able to adjust the temperature I want the heater to run at. And, I will try to also create historical data that I can send to a databse or excel spreadsheet to track the temperature and the amount of time the heater runs. There are 3 settings on my heater so I want to compare which setting is more efficient. 
+
+Any advise or help with my code is appreciated!
+
+Have a GREAT day!!😎
+
+
 
 <!--
 **rumsontrader/rumsontrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
